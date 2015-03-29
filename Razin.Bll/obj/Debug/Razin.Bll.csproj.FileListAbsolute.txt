@@ -1,0 +1,9 @@
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\bin\Debug\Razin.Bll.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\bin\Debug\Razin.Bll.pdb
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\bin\Debug\Razin.Bo.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\bin\Debug\Razin.Dal.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\bin\Debug\Razin.Bo.pdb
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\bin\Debug\Razin.Dal.pdb
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\obj\Debug\Razin.Bll.csprojResolveAssemblyReference.cache
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\obj\Debug\Razin.Bll.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\Razin.Bll\obj\Debug\Razin.Bll.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f3a30143-183c-4ce8-8280-509ed5870ae5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55896/RazinService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RazinService.xsd" MetadataType="Schema" ID="9b44d743-bf56-44b9-8cff-f3ae91057be9" SourceId="1" SourceUrl="http://localhost:55896/RazinService.svc?xsd=xsd0" />
+    <MetadataFile FileName="RazinService1.xsd" MetadataType="Schema" ID="e5e2fda7-1599-4cd6-b2a0-b616a05579c2" SourceId="1" SourceUrl="http://localhost:55896/RazinService.svc?xsd=xsd2" />
+    <MetadataFile FileName="RazinService2.xsd" MetadataType="Schema" ID="7bd14f30-47ed-4dfa-a73e-64305a4c9914" SourceId="1" SourceUrl="http://localhost:55896/RazinService.svc?xsd=xsd1" />
+    <MetadataFile FileName="RazinService.disco" MetadataType="Disco" ID="13a547a3-9f2e-47bf-abca-8bdcdd256060" SourceId="1" SourceUrl="http://localhost:55896/RazinService.svc?disco" />
+    <MetadataFile FileName="RazinService.wsdl" MetadataType="Wsdl" ID="e890c16f-824f-4128-b4bf-609a6af369f7" SourceId="1" SourceUrl="http://localhost:55896/RazinService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,12 @@
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\RazinWcfService.dll.config
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\RazinWcfService.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\RazinWcfService.pdb
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\Razin.Bll.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\Razin.Bo.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\Razin.Dal.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\Razin.Bll.pdb
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\Razin.Bo.pdb
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\bin\Razin.Dal.pdb
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\obj\Debug\RazinWcfService.csprojResolveAssemblyReference.cache
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\obj\Debug\RazinWcfService.dll
+C:\Users\rbharde\documents\visual studio 2013\Projects\Employee_Registration_Razin\Employee_Registration\RazinWcfService\obj\Debug\RazinWcfService.pdb
